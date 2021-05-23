@@ -19,6 +19,20 @@ body {
     align-items: flex-start;
 }
 
+.section-title {
+    font-size: 48px;
+    color: grey;
+    border-bottom: 3px solid;
+    padding-bottom: 20px;
+    text-align: center;
+    margin: 0 auto 35px auto;
+    width: 50%;
+}
+
+.primary-border {
+    border-color: whitesmoke;
+}
+
 .flex-row {
     display: flex;
 }
@@ -29,7 +43,7 @@ body {
 }
 
 .contact h2 {
-    color: lightblue;
+    color:grey;
 }
 
 .contact-info {
@@ -43,18 +57,13 @@ body {
     margin: 15px;
 }
 
-
-
-
-
-
-
-
-
-.contact-form a {
-    color: burlywood;
+.contact-info a {
+    color: black;
 }
 
+.contact-form h3 {
+    color:grey;
+}
 .contact-form input, .contact-form textarea {
     border: 1px solid ;
     display: block;
@@ -74,4 +83,20 @@ body {
     text-align: center;
     padding: 15px 0;
     font-size: 16px;
+}
+
+/* footer styling */
+footer {
+    background: whitesmoke;
+    width: 100%;
+    padding: 40px 35px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+footer h4 {
+    color: grey;
+    font-size: 20px;
+    margin: 0;
 }
