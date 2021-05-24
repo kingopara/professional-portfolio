@@ -110,6 +110,9 @@ header nav ul li a {
 article img {
     width: fit-content;
 }
+article h2 {
+    color: brown;
+}
 
 /* contact me style */
 .contact {
