@@ -16,7 +16,7 @@ UT Austin Coding Bootcamp
 ## Contributions
 Made with ❤️ by Praise Opara
 
-### Praise Opara &copy2021 
+### Praise Opara &copy 2021 
 
 ## License 
 [MIT](https://choosealicense.com/licenses/mit/)
